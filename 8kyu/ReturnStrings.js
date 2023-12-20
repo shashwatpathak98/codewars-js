@@ -10,4 +10,4 @@ function greet(name) {
 }
 
 
-console.log(greet("shashwat"));
+//console.log(greet("shashwat"));

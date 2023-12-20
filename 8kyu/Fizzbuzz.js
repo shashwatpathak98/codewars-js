@@ -58,4 +58,4 @@ function fizzbuzz(n)
    return ans
 }
 
-console.log(fizzbuzz(3))
+//console.log(fizzbuzz(3))
